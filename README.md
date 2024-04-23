@@ -3,8 +3,8 @@
 #### Analista de Dados, Analista de Inteligência Empresarial, Cientista de Dados
 #### SQL, Power BI, Power Query, DAX, Python, VBA, Tableau, Data Wrangling, Data Storytelling, ETL, Estatística 
 
-Linked In: https://www.linkedin.com/in/orlando-petroszenko/</br>
-CV: https://github.com/orosolin2/orosolin2/blob/main/CV_ORPR_PT_2024-05.pdf</br>
+Linked In: [in/orlando-petroszenko](https://www.linkedin.com/in/orlando-petroszenko/)</br>
+CV: [CV_ORPR_PT_2024-05.pdf](https://github.com/orosolin2/orosolin2/blob/main/CV_ORPR_PT_2024-05.pdf)</br>
 
 • Profissional graduado em Sistemas de Informação com 18 anos de experiência no mercado de tecnologia da informação. Possui especializações em Ciência de Dados e diversas formações em áreas correlatas, além de certificações em qualidade de software, Microsoft Office e Microsoft Power BI.
 
